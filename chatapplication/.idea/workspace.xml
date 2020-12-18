@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5eb2411d-e22e-4e0b-85f6-14873f1d7d11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,6 +37,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -56,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608322178936</updated>
-      <workItem from="1608322180110" duration="549000" />
+      <workItem from="1608322180110" duration="835000" />
     </task>
     <servers />
   </component>
@@ -79,5 +82,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834/1920.69.1024.738@0.0.1536.834" timestamp="1608322705051" />
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom" timestamp="1608322771136">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.69.1024.738@0.0.1536.834" timestamp="1608322771136" />
+    <state width="1515" height="213" key="GridCell.Tab.0.center" timestamp="1608322771135">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834/1920.69.1024.738@0.0.1536.834" timestamp="1608322771135" />
+    <state width="1515" height="213" key="GridCell.Tab.0.left" timestamp="1608322771135">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834/1920.69.1024.738@0.0.1536.834" timestamp="1608322771135" />
+    <state width="1515" height="213" key="GridCell.Tab.0.right" timestamp="1608322771136">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834/1920.69.1024.738@0.0.1536.834" timestamp="1608322771136" />
   </component>
 </project>
